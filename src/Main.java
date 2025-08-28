@@ -95,7 +95,7 @@ public class Main {
         int salaryYear2 = salary2 * 12;
         double salaryYear2New = salary2New * 12;
         double salaryDifference2 = salaryYear2New - salaryYear2;
-        int salaryYear3 = salary3 * 12;
+        int salaryYear3 = salary3 * 12 ;
         double salaryYear3New = salary3New * 12;
         double salaryDifference3 = salaryYear3New - salaryYear3;
         System.out.println("Маша теперь получает " + salary1New + " рублей. Годовой доход вырос на " + salaryDifference1);
